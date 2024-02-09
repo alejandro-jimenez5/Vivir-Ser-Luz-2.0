@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+$TipoGrafiaPrincial:'Cabin', sans-serif;
+$TipoGrafiaSecundaria:'Assistant', sans-serif;
+$TipoGrafiaNav:'Space Grotesk', sans-serif;
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
